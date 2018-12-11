@@ -4,8 +4,8 @@
 2. 6U9mw4FcRtD3ZGlzo9JTm/MlrgwAQy1S1Bnu5/4l7P0U/ZvbV6+nfaS0zqHUAPoL
 ```
 
-### 1st December 
-####Solution 
+### December 1st 
+#### Solution 
 Using telnet and asking xmas.rip for wishlist on port 1 (adding random elements) returned the answer.
 
 #### Command
@@ -20,7 +20,7 @@ telnet xmas.rip 1
 zYkmesG45dIDt4mSHs9OlpFESzq0dbDsrUZ0M1DcfYcdEdguOVdG0mc/KER3BO2W
 ```
 
-### Template
+### December 2nd
 ##### Solution
 Using given script to exploit heartbleed (`Last christmas I gave you my heart` referred to heartbleed)
 ##### Command
