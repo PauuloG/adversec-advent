@@ -6,7 +6,7 @@
 
 ### December 1st 
 #### Solution 
-Using telnet and asking xmas.rip for wishlist on port 1 (adding random elements) returned the answer.
+Using telnet and asking xmas.rip for wishlist service on port 1 (adding random elements to the wishlist) returned the answer.
 
 #### Command
 
